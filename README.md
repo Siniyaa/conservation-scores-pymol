@@ -329,29 +329,7 @@ ray 2400,1800
 
 png HA_I302S_consurf.png, dpi=300
 ```
-
 ---
-
-# Repository Structure
-
-```text
-influenza-structural-mapping/
-│
-├── README.md
-├── dna_to_protein.py
-├── pymol_workflow_codes.py
-│
-├── data/
-│   ├── fasta/
-│   ├── alignments/
-│   ├── pdb/
-│   └── consurf/
-│
-├── figures/
-│
-└── scripts/
-```
-
 ---
 
 # Software and Tools
